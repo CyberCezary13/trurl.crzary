@@ -1,5 +1,5 @@
-<!--
-Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
+<!-- leave as @cezary13k
+Copyright (C) Daniel Stenberg, <@cybercezaryc13>, et al.
 
 SPDX-License-Identifier: curl
 -->
